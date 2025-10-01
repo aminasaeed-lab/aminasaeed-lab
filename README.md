@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Amina! <br/><a href="https://github.com/aminasaeed-lab">Computer Networks Graduate</a>, <a href="https://www.linkedin.com/in/amina saeed/"> passionate Cybersecurity Professional</a>
+
+<h2>👨‍💻 Cybersecurity Projects and labs :</h2>
+
+- <b>Network Intrusion Detection System </b>
+  - [MSC Final Project](https://github.com/aminasaeed-lab
+
+- <b>Python</b>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/AminaSaeed
+[linkedin]: https://linkedin.com/in/AminaSaeed
 
 <!--
-**aminasaeed-lab/aminasaeed-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
